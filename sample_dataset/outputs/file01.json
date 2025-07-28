@@ -1,0 +1,39 @@
+{
+  "title": "Application form for grant of LTC advance",
+  "pages": {
+    "1": {
+      "H1": [
+        "Application form for grant of LTC advance"
+      ],
+      "H2": [
+        "Name of the Government Servant",
+        "Designation",
+        "Date  of  entering  the  Central  Government",
+        "Service",
+        "PAY + SI + NPA",
+        "Whether permanent or temporary",
+        "6.  Home Town as recorded in the Service Book",
+        "Whether wife / husband is employed and if",
+        "so whether entitled to LTC",
+        "Whether the concession is to be availed for",
+        "visiting home town and if so block for which",
+        "LTC is to be availed.",
+        "(a) If the concession is to visit anywhere in",
+        "India, the place to be visited.",
+        "(b) Block for which to be availed.",
+        "Single  rail  fare/bus  fare  from  the",
+        "headquarters to home town/place of visit by",
+        "shortest route.",
+        "Persons in respect of whom LTC is proposed to be availed.",
+        "S.No  Name  Age  Relationship",
+        "Amount of advance required.  Rs.",
+        "I declare that the particulars furnished above are true and correct to the best of my knowledge.   I",
+        "undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+        "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of",
+        "advance, I undertake to refund the entire advance in one lump sum.",
+        "Date",
+        "Signature of Government Servant."
+      ]
+    }
+  }
+}

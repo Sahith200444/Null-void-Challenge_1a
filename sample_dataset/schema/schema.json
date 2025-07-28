@@ -1,0 +1,1277 @@
+[
+  {
+    "title": "THE FIRST 103 KANJI",
+    "pages": {
+      "1": {
+        "H1": [
+          "THE FIRST 103 KANJI"
+        ]
+      },
+      "2": {
+        "H1": [
+          "About this book"
+        ],
+        "H2": [
+          "writing the first 103 kanji characters required for the Japanese  Its meaning  The onyomi and kunyomi readings Vocabulary that includes this kanji NIHONGO ICHIBAN website to video showing the stroke order  A hint to help memorizing the kanji  A grid to exercise writing"
+        ]
+      },
+      "3": {
+        "H1": [
+          "Copyright",
+          "About us"
+        ],
+        "H2": [
+          "THERE IS NO COPYRIGHT! Japanese. NIHON ICHIBAN is a social business to promote Japanese culture and lifestyle in the world. With our free websites we serve a countries. The NIHON ICHIBAN SHOP is the leading online shop for authentic Japanese craft, design and food products. Please visit our shop first when you need something from Japan. NIHONGO ICHIBAN: http://nihongoichiban.com NIHON ICHIBAN: http://nihon-ichiban.com JAPAN BLOG DIRECTORY: http://japanblogdirectory.com NIHON ICHIBAN SHOP: http://anything-from-japan.com"
+        ]
+      },
+      "4": {
+        "H1": [
+          "a lesser extend it nowadays also uses some Latin alphabet for abbreviations and",
+          "numbers.",
+          "1) Kanji ( )",
+          "Kanji  originally came from China to Japan. The term “ kanji ” literally means “Han",
+          "characters” or “Chinese characters” and it is identical to the characters in China to",
+          "describe their writing.",
+          "Kanji  are mainly used to describe names and nouns. When used in verbs and adjectives",
+          "they mostly are written in combination with  hiragana . Most sentences include  kanji  as well",
+          "as  hiragana .",
+          "Japanese dictionaries list around 10,000  kanji . The Japanese government limited the  kanji",
+          "A Japanese with average education knows around 3000  kanji  and it is estimated that",
+          "around 4000  kanji  are used in Japanese literature.",
+          "2) Hiragana ( )",
+          "平仮名",
+          "Hiragana  is a phonetic alphabet that was developed in the ninth century to simplify writing.",
+          "It nowadays is mainly used for native Japanese words.  Hiragana  are derived from more",
+          "contemporary Japanese writing.",
+          "゛ ゜",
+          "A I U E O",
+          "(a)  (i)  (u)  (e)  (o)",
+          "あ い う え お",
+          "(ka)  (ki) (ku)  (ke)  (ko)",
+          "か き く け こ",
+          "(ga)  (gi)  (gu)  (ge)  (go)",
+          "が ぎ ぐ げ ご",
+          "(sa)  (shi)  (su)  (se)  (so)",
+          "さ し す せ そ",
+          "(za)  (ji)  (zu)  (ze)  (zo)",
+          "ざ じ ず ぜ ぞ",
+          "(ta)  (chi)  (tsu)  (te)  (to)",
+          "た ち つ て と",
+          "(da)  (ji)  (zu)  (de)  (do)",
+          "だ ぢ づ で ど",
+          "(na)  (ni)  (nu)  (ne)  (no)",
+          "な に ぬ ね の"
+        ]
+      },
+      "5": {
+        "H1": [
+          "(ha)  (hi)  (fu)  (he)  (ho)",
+          "は ひ ふ へ ほ",
+          "(ba)  (bi)  (bu)  (be)  (bo)",
+          "ば び ぶ ベ ぼ",
+          "(pa)  (pi)  (pu)  (pe)  (po)",
+          "ぱ ぴ ぷ ぺ ぽ",
+          "(ma)  (mi)  (mu)  (me)  (mo)",
+          "ま み む め も",
+          "(ya)  (yu)  (yo)",
+          "や ゆ よ",
+          "(ra)  (ri)  (ru)  (re)  (ro)",
+          "ら り る れ ろ",
+          "(wa)  (o/wo)",
+          "わ を",
+          "(n)",
+          "used in Japanese. The first character is written in normal size whereas the second",
+          "character is written a little bit smaller. These combinations are called digraphs.",
+          "YA YU YO",
+          "(kya)  (kyu)  (kyo)",
+          "きゃ きゅ きょ",
+          "(gya)  (gyu)  (gyo)",
+          "ぎゃ ぎゅ ぎょ",
+          "(sha)  (shu)  (sho)",
+          "しゃ しゅ しょ",
+          "(ja)  (ju)  (jo)",
+          "じゃ じゅ じょ",
+          "(cha)  (chu)  (cho)",
+          "ちゃ ちゅ ちょ",
+          "ぢゃ ぢゅ ぢょ",
+          "(nya)  (nyu)  (nyo)",
+          "にゃ にゅ にょ",
+          "(hya)  (hyu)  (hyo)",
+          "ひゃ ひゅ ひょ",
+          "(bya)  (byu)  (byo)",
+          "びゃ びゅ びょ",
+          "(pya)  (pyu)  (pyo)",
+          "ぴゃ ぴゅ ぴょ",
+          "(mya)  (myu)  (myo)",
+          "みゃ みゅ みょ",
+          "(rya)  (ryu)  (ryo)",
+          "りゃ りゅ りょ",
+          "3) Katakana ( )",
+          "片仮名",
+          "Katakana  also is a phonetic alphabet covering the same syllable as  hiragana  and it",
+          "therefore also has 46 different characters. It is mainly used for foreign loanwords and",
+          "sometimes to replace  kanji  or  hiragana  for emphasis.  Katakana w ere developed in the",
+          "ninth century and are also derived from more complex  kanji."
+        ]
+      },
+      "6": {
+        "H1": [
+          "A I U E O",
+          "(a)  (i)  (u)  (e)  (o)",
+          "ア イ ウ エ オ",
+          "(ka)  (ki)  (ku)  (ke)  (ko)",
+          "カ キ ク ケ コ",
+          "(ga)  (gi)  (gu)  (ge)  (go)",
+          "ガ ギ グ ゲ ゴ",
+          "(sa)  (shi)  (su)  (se)  (so)",
+          "サ シ ス セ ソ",
+          "(za)  (ji)  (zu)  (ze)  (zo)",
+          "ザ ジ ズ ゼ ゾ",
+          "(ta)  (chi)  (tsu)  (te)  (to)",
+          "タ チ ツ テ ト",
+          "(da)  (ji)  (zu)  (de)  (do)",
+          "ダ ヂ ヅ デ ド",
+          "(na)  (ni)  (nu)  (ne)  (no)",
+          "ナ ニ ヌ ネ ノ",
+          "(ha)  (hi)  (fu)  (he)  (ho)",
+          "ハ ヒ フ ヘ ホ",
+          "(ba)  (bi)  (bu)  (be)  (bo)",
+          "バ ビ ブ ベ ボ",
+          "(pa)  (pi)  (pu)  pe) (po)",
+          "パ ピ プ ペ ポ",
+          "(ma)  (mi)  (mu)  (me)  (mo)",
+          "マ ミ ム メ モ",
+          "(ya)  (yu)  (yo)",
+          "ヤ ユ ヨ",
+          "(ra)  (ri)    (ru)  (re)  (ro)",
+          "ラ リ ル レ ロ",
+          "(wa)  (o/wo)",
+          "ワ ヲ",
+          "(n)",
+          "As with hiragana there also are combinations to express the other sounds required for the",
+          "Japanese language.",
+          "YA YU YO",
+          "(kya)  (kyu)  (kyo)",
+          "キャ キュ キョ",
+          "(gya)  (gyu)  (gyo)",
+          "ギャ ギュ ギョ",
+          "(sha)  (shu)  (sho)",
+          "シャ シュ ショ",
+          "(ja)  (ju)  (jo)",
+          "ジャ ジュ ジョ",
+          "(cha)  (chu)  (cho)",
+          "チャ チュ チョ",
+          "ぢゃ ヂュ ヂョ",
+          "(nya)  (nyu)  (nyo)",
+          "ニャ ニュ ニョ"
+        ]
+      },
+      "7": {
+        "H1": [
+          "(hya)  (hyu)  (hyo)",
+          "ヒャ ヒュ ヒョ",
+          "(bya)  (byu)  (byo)",
+          "ビャ ビュ ビョ",
+          "(pya)  (pyu)  (pyo)",
+          "ピャ ピュ ピョ",
+          "(mya)  (myu)  (myo)",
+          "ミャ ミュ ミョ",
+          "(rya)  (ryu)  (ryo)",
+          "リャ リュ リョ",
+          "These 46 katakana and their variations are sufficient to express all sounds used for",
+          "so common extended  katakana  is used.",
+          "A I U E O",
+          "(yi)  (ye)",
+          "イィ イェ",
+          "(wa)  (wi)  (wu)  (we)  (wo)",
+          "ウァ ウィ ウゥ ウェ ウォ",
+          "(va)  (vi)  (vu)  (ve)  (vo)",
+          "ヴァ ヴィ ヴ ヴェ ヴォ",
+          "(vye)",
+          "ヴィェ",
+          "(kye)",
+          "(gye)",
+          "(kwa) (kwi)  (kwe)  (kwo)",
+          "クァ クィ クェ クォ",
+          "(gwa)  (gwi)  (gwe)  (gwo)",
+          "グァ グィ グェ グォ",
+          "(she)",
+          "(je)",
+          "(si)",
+          "(zi)",
+          "(che)",
+          "(tsa)  (tsi)  (tse)  (tso)",
+          "ツァ ツィ ツェ ツォ",
+          "(ti)  (tu)",
+          "ティ テゥ",
+          "(di)  (du)",
+          "ディ デゥ",
+          "(nye)",
+          "(hye)",
+          "(bye)"
+        ]
+      },
+      "8": {
+        "H1": [
+          "(pye)",
+          "(fa)  (fi)  (fe)  (fo)",
+          "ファ フィ フェ フォ",
+          "(fye)",
+          "フィェ",
+          "(hu)",
+          "(mye)",
+          "(rye)",
+          "(la) (li) (lu) (le) (lo)",
+          "ラ゜ リ゜ ル゜ レ゜ ロ゜",
+          "4) Writing a Japanese text",
+          "It is possible to write everything in  hiragana  or  katakana  since both scripts cover the entity",
+          "All characters are written one by one and in the same size. There are no spaces between",
+          "different words, which feels a little bit unusual for most foreigners. It takes time to get used",
+          "to this and easily distinguish different words.",
+          "It is important to write the strokes in the correct order and directions to give the characters",
+          "the right shape. The reason why becomes obvious when practicing with a brush pen 1 ,",
+          "which is very much recommended for beginners.",
+          "Japanese writing is made in two directions. Horizontal writing ( yokogaki ) is from the left to",
+          "the right as in western style. Traditional writing ( tategaki ) is vertical starting from the right",
+          "top and ending at the left bottom. A book printed in  tategaki  opens from what Westerners",
+          "would call the back, while a book printed in  yokogaki  opens from what traditionally in",
+          "Japan would have been considered the back. 2"
+        ],
+        "H2": [
+          "Japanese shops or via mail order."
+        ]
+      },
+      "9": {
+        "H1": [
+          "stroke"
+        ],
+        "H2": [
+          "Kunyomi: Hito [ ] 一口 ひとくち Vocabulary: - - hitokuchi - One bite To check the strokes order click on the link or search 4E00 on Nihongo Ichiban ★ 一 is just one stroke"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "10": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "二人 ふたり Vocabulary: - - futari - Two persons To check the strokes order click on the link or search 4E8C on Nihongo Ichiban ★ 二 一 一 二 1 + 1 = 2"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "11": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "みつ みっ Kunyomi: Mitsu / Mi- [ / ] 日 みっか Vocabulary: 3 - - mikka - The 3rd To check the strokes order click on the link or search 4E09 on Nihongo Ichiban ★ 三 一 二 1 + 2 = 3"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "12": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "よ ゆ よん Kunyomi: Yo / Yu / Yon [ / / ] 四季 しき Vocabulary: - - shiki - The 4 seasons To check the strokes order click on the link or search 56DB on Nihongo Ichiban There are four sides to a square"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "13": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Itsu [ ] 五つ いつつ Vocabulary: - - itsutsu - Five (ordinal number) To check the strokes order click on the link or search 4E94 on Nihongo Ichiban It looks like the number 5"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "14": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Mu/Mut/Mui [ / / ] 六つ むっつ Vocabulary: - - muttsu - Six (ordinal number) To check the strokes order click on the link or search 516D on Nihongo Ichiban 6 can be written VI if you turn them around you get"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "15": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "なな なの Kunyomi: Nana/Nano [ / ] 七月 しちがつ Vocabulary: – – shichigatsu - July To check the strokes order click on the link or search 4E03 on Nihongo Ichiban It is a 7 inverted"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "16": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "やっ や よう Kunyomi: Yat/Ya/You [ / / ] 八つ やっつ Vocabulary: - - Yattsu – Eight (ordinal number) To check the strokes order click on the link or search 516B on Nihongo Ichiban When following the simple shape"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "17": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "九日 ここのか Vocabulary: - - Kokonoka - The 9 Code NIHONGO ICHIBAN: 4E5D To check the strokes order click on the link or search 4E5D on Nihongo Ichiban with a little imagination"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "18": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Too [ ] 十日 とおか Vocabulary: - - Tooka – The To check the strokes order click on the link or search 5341 on Nihongo Ichiban 10 can be written X"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "19": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: / 百貨店 ひゃっかてん Vocabulary: - - Hyakkaten - A mall To check the strokes order click on the link or search 767E on Nihongo Ichiban 100 ->"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "20": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Chi [ ] 二千円 にせんえん Vocabulary: - - nisenen - Two thousand Yen To check the strokes order click on the link or search 5343 on Nihongo Ichiban Thousand starts with the letter T"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "21": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "万引き まんびき Vocabulary: - - manbiki – Shoplifting To check the strokes order click on the link or search 4E07 on Nihongo Ichiban It looks like a capital T and a h combined like in Thousand and the capital T also stands for Ten"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "22": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Mizu [ ] 水道 すいどう Vocabulary: - - suidou - Water pipe To check the strokes order click on the link or search 6C34 on Nihongo Ichiban"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "23": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Hi [ ] 火山 かざん Vocabulary: - - kazan – Volcano To check the strokes order click on the link or search 706B on Nihongo Ichiban It looks like a camp fire with flames flying around."
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "24": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "き こ Kunyomi: Ki/Ko [ / ] 木曜日 もくようび Vocabulary: - - mokuyoubi – Thursday To check the strokes order click on the link or search 6728 on Nihongo Ichiban It is easy to remember since it looks like a tree"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "25": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "あめ あま Kunyomi: Ame, Ama [ / ] 天気 てんき Vocabulary: - - tenki – Weather To check the strokes order click on the link or search 5929 on Nihongo Ichiban ★ 一 大 Heaven is one ( ) big ( ) place !"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "26": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Tsuchi [ ] 土 つち Vocabulary: - - tsuchi – Earth To check the strokes order click on the link or search 571F on Nihongo Ichiban It looks like a cross on a grave buried in the ground"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "27": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Kita [ ] 北米 ほくべい Vocabulary: - - hokubei - North America Check the strokes order and learn more vocabulary on Nihongo Ichiban code: 5317 When putting it together it looks like a ladder to go up NORTH"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "28": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "ひがし Kunyomi: Higashi [ ] 東京 とうきょう Vocabulary: - - toukyou - Tokyo To check the strokes order click on the link or search 6771 on Nihongo Ichiban ★ 日 木 The sun ( ) rise behind a tree ( ) on the East."
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "29": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Nishi [ ] 西暦 せいれき Vocabulary: - - seireki - Christian era To check the strokes order click on the link or search 897F on Nihongo Ichiban The upper part looks like the Greek symbol π (Pi). Greek is a western country"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "30": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "南米 なんべい Vocabulary: - - nanbei - South America To check the strokes order click on the link or search 5357 on Nihongo Ichiban In the South there are many believers"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "31": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "ひだり Kunyomi: Hidari [ ] 左折 させつ Vocabulary: - - sasetsu - To turn left To check the strokes order click on the link or search 5DE6 on Nihongo Ichiban working ( )"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "32": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Migi [ ] 右岸 うがん Vocabulary: - - ugan - Right Shore To check the strokes order click on the link or search 53F3 on Nihongo Ichiban On a map the restaurant"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "33": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "ひ か Kunyomi: Hi/Ka [ / ] 日本 にほん Vocabulary: - - nihon - Japan To check the strokes order click on the link or search 65E5 on Nihongo Ichiban"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "34": {
+        "H1": [
+          "stroke"
+        ],
+        "H2": [
+          "Kunyomi: Tsuki [ ] 満月 まんげつ Vocabulary: - - mangetsu - Full moon To check the strokes order click on the link or search 6708 on Nihongo Ichiban"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "35": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Hana [ ] 花瓶 かびん Vocabulary: - - kabin - Vase To check the strokes order click on the link or search 82B1 on Nihongo Ichiban ★ 化 Weed ( ) sometime changes ( ) into flowers ( )"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "36": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "さかな うお Kunyomi: Sakana / Uo [ / ] 金魚 きんぎょ Vocabulary: - - kingyo – Goldfish To check the strokes order click on the link or search 9B5A on Nihongo Ichiban It looks like a fish swimming upward."
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "37": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "け る から )/ ] 空港 くうこう Vocabulary: - - kuukou - Airport To check the strokes order click on the link or search 7A7A on Nihongo Ichiban ★ 工 穴 Working ( ) in a hole ( ) makes you feel empty."
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "38": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Yama [ ] 山羊 やぎ Vocabulary: - - yagi - A goat To check the strokes order click on the link or search 5C71 on Nihongo Ichiban stands for."
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "39": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "徳川 とくがわ Vocabulary: - - Tokugawa - Togugawa (Ieyasu) first shogunate. To check the strokes order click on the link or search 5DDD on Nihongo Ichiban river."
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "40": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Ame [ ] 梅雨 つゆ Vocabulary: - - tsuyu - Rainy season To check the strokes order click on the link or search 96E8 on Nihongo Ichiban It looks like rain drops hitting a window"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "41": {
+        "H1": [
+          "stroke"
+        ],
+        "H2": [
+          "Kunyomi: Moto [ ] 本物 ほんもの Vocabulary: - - honmono – Original To check the strokes order click on the link or search 672C on Nihongo Ichiban Books are made from trees cut at their bottom (hence the bottom line)"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "42": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Me [ ] 目的 もくてき Vocabulary: - - mokuteki - purpose, goal To check the strokes order click on the link or search 76EE on Nihongo Ichiban"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "43": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Kuchi [ ] 火口 かこう Vocabulary: - - kakou - Crater To check the strokes order click on the link or search 53E3 on Nihongo Ichiban It looks like a mouth wide open"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "44": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Mimi [ ] 耳孔 じこう Vocabulary: - - jikou - Earhole To check the strokes order click on the link or search 8033 on Nihongo Ichiban It looks a little like an ear with a hole in the middle and one part sticking out down"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "45": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Te [ ] 空手 からて Vocabulary: - - karate - Karate To check the strokes order click on the link or search 624B on Nihongo Ichiban It is a simplified Hand drawing giving a thumb down"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "46": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "りる た す ( )/ ( )] 満足 まんぞく Vocabulary: - - manzoku - Satisfaction To check the strokes order click on the link or search 8DB3 on Nihongo Ichiban It looks like a cartoon character running with his huge Feet"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "47": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Hito [ ] 人口 じんこう Vocabulary: - - jinkou - Population To check the strokes order click on the link or search 4EBA on Nihongo Ichiban It looks like a Man standing with his legs spread."
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "48": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Haha [ ] 祖母 そぼ Vocabulary: - - sobo – Grandmother To check the strokes order click on the link or search 6BCD on Nihongo Ichiban It is suppose to represent a Mother’s breast."
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "49": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "Kunyomi: Chichi [ ] 祖父 そふ Grandfather To check the strokes order click on the link or search 7236 on Nihongo Ichiban up because he became a Father."
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      },
+      "50": {
+        "H1": [
+          "strokes"
+        ],
+        "H2": [
+          "おんな め Kunyomi: Onna / Me [ / ] 女性 じょせい Vocabulary: - - josei - Female To check the strokes order click on the link or search 5973 on Nihongo Ichiban It looks like a ballerina"
+        ],
+        "H3": [
+          "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+          "authentic Japanese craft, designs and food."
+        ]
+      }
+    }
+  },
+  {
+    "title": "Application form for grant of LTC advance",
+    "pages": {
+      "1": {
+        "H1": [
+          "Application form for grant of LTC advance"
+        ],
+        "H2": [
+          "Name of the Government Servant",
+          "Designation",
+          "Date  of  entering  the  Central  Government",
+          "Service",
+          "PAY + SI + NPA",
+          "Whether permanent or temporary",
+          "6.  Home Town as recorded in the Service Book",
+          "Whether wife / husband is employed and if",
+          "so whether entitled to LTC",
+          "Whether the concession is to be availed for",
+          "visiting home town and if so block for which",
+          "LTC is to be availed.",
+          "(a) If the concession is to visit anywhere in",
+          "India, the place to be visited.",
+          "(b) Block for which to be availed.",
+          "Single  rail  fare/bus  fare  from  the",
+          "headquarters to home town/place of visit by",
+          "shortest route.",
+          "Persons in respect of whom LTC is proposed to be availed.",
+          "S.No  Name  Age  Relationship",
+          "Amount of advance required.  Rs.",
+          "I declare that the particulars furnished above are true and correct to the best of my knowledge.   I",
+          "undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+          "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of",
+          "advance, I undertake to refund the entire advance in one lump sum.",
+          "Date",
+          "Signature of Government Servant."
+        ]
+      }
+    }
+  },
+  {
+    "title": "Overview",
+    "pages": {
+      "1": {
+        "H1": [
+          "Overview",
+          "Foundation Level Extensions"
+        ],
+        "H2": [
+          "Copyright Notice This document may be copied in its entirety, or extracts made, if the source is acknowledged."
+        ]
+      },
+      "3": {
+        "H1": [
+          "Revision History"
+        ],
+        "H2": [
+          "0.2 23 JULY 2013 WG reviewed and confirmed 0.3 6 NOV 2013 amended population and diagram 0.7 11 DEC 2013 Amended Business Outcomes and Chapters matching 0.8 20 DEC 2013 Working group updates on 0.7 1.0 31 MAY 2014 GA release for Agile Extension"
+        ]
+      },
+      "4": {
+        "H1": [
+          "Revision History .......................................................................................................................................... 3",
+          "1.  Introduction to the Foundation Level Extensions ............................................................................ 6",
+          "2.  Introduction to Foundation Level Agile Tester Extension ............................................................... 7",
+          "2.1  Intended Audience ..................................................................................................................... 7",
+          "2.2  Career Paths for Testers ............................................................................................................ 7",
+          "2.3  Learning Objectives ................................................................................................................... 7",
+          "2.4  Entry Requirements ................................................................................................................... 8",
+          "2.5  Structure and Course Duration................................................................................................... 8",
+          "2.6  Keeping It Current...................................................................................................................... 9",
+          "3.1  Business Outcomes ................................................................................................................. 10",
+          "3.2  Content.................................................................................................................................... 10",
+          "4.  References .......................................................................................................................................... 12",
+          "4.1  Trademarks ............................................................................................................................. 12",
+          "4.2  Documents and Web Sites....................................................................................................... 12"
+        ]
+      },
+      "5": {
+        "H1": [
+          "Acknowledgements"
+        ],
+        "H2": [
+          "Foundation Level Working Group. The Agile Extension team thanks the review team and the National Boards for their suggestions and input. At the time the Foundation Level Agile Extension Syllabus was completed, the Agile Extension Working Group had the following membership: Rex Black (Chair), Bertrand Cornanguer (Vice Chair), Gerry Coleman (Learning Objectives Lead), Debra Friedenberg (Exam Lead), Alon Linetzki (Business Outcomes and Marketing Lead), Tauhida Parveen (Editor), and Leo van der Aalst (Development Lead). Authors: Rex Black, Anders Claesson, Gerry Coleman, Bertrand Cornanguer, Istvan Forgacs, Alon Linetzki, Tilo Linz, Leo van der Aalst, Marie Walsh, and Stephan Weber. Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula Pääkkönen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytkönen, Monika Stoecklein-Olsen, Robert Treffny, Chris Van Bael, and Erik van Veenendaal. The team thanks also the following persons, from the National Boards and the Agile expert community, Almog, Richard Berns, Stephen Bird, Monika Bögge, Afeng Chai, Josephine Crawford, Tibor Csöndes, Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter Morgan, Ninna Morin, Ingvar Nordstrom, Chris O’Dea, Klaus Olsen, Ismo Paukamainen, Nathalie Phung, Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri Säilynoja, Soile Sainio, Lars-Erik Sandberg, Dakar Shalom, Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde, Stephanie Ulrich, Tommi Välimäki, Jurian Van de Laar, Marnix Van den Ent, António Vieira Melo, Wenye Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo."
+        ]
+      },
+      "6": {
+        "H1": [
+          "1.  Introduction to the Foundation Level Extensions"
+        ],
+        "H2": [
+          "This overview document is intended for anyone with an interest in the ISTQB Foundation Level extension syllabi. From time to time, ISTQB will update this document to reflect any additional extensions that shall be updated document will be available on the ISTQB website. The ISTQB Foundation and Advanced Level syllabi have been defined and have been on the market for are brought into the ISTQB program as new Expert Level syllabi. However, not all topics are suited for the Expert Level. For this reason, the extension syllabi are established at the Foundation Level to expand the ISTQB program to incorporate new or updated knowledge. New extensions shall be discussed and introduced by the ISTQB periodically. Extensions may be established at the Advanced Level as well, but The following Foundation Level Extension syllabus has been released: Agile Tester In this document, each Foundation Level Extension syllabus is summarized and the associated Business Outcomes are stated. The Business Outcomes communicate what can be expected from a person who achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and level."
+        ]
+      },
+      "7": {
+        "H1": [
+          "2.  Introduction to Foundation Level Agile Tester Extension"
+        ],
+        "H2": [
+          "2.1 Intended Audience 2.2 Career Paths for Testers 2.3 Learning Objectives"
+        ],
+        "H3": [
+          "Agile methods in the near future, or are working within companies that plan to do so, The certification",
+          "provides an advantage for those who would like to know the required Agile activities, roles, methods, and",
+          "methodologies specific to their role.",
+          "like to get an Agile Tester Certificate.",
+          "Foundation Level certificate, and  would like to know more about the tester’s role in an Agile",
+          "environment.",
+          "methods and techniques in their day to day job in Agile projects.",
+          "understanding and knowledge about how to perform and manage testing on all levels in Agile",
+          "projects.",
+          "This Foundation Level Extension  – Agile Tester certification may also be appropriate for anyone who",
+          "consultants.",
+          "an Agile project.",
+          "People possessing an ISTQB Foundation Level Extension  – Agile Tester certificate may use the Certified",
+          "Tester Foundation Level acronym CTFL-AT.",
+          "In general, the Foundation Level syllabus is examinable at a K1 level, i.e., the candidate will recognize,",
+          "remember and recall terms and concepts stated in the Foundation Level syllabus.",
+          "In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an",
+          "extension exam."
+        ]
+      },
+      "8": {
+        "H1": [
+          "2.4  Entry Requirements",
+          "2.5  Structure and Course Duration"
+        ],
+        "H2": [
+          "That said, each extension level exam focuses on the learning objectives defined in that extension chapter within each particular extension syllabus. To be able to participate in a Foundation Level Extension – Agile Tester exam, candidates must have obtained the ISTQB Foundation Level certificate. The Foundation Level Extension – Agile Tester syllabus has no shared or common elements with the Foundation Level syllabus. Syllabus Days Baseline: Foundation 3 Extension: Agile Tester 2 Foundation Level."
+        ]
+      },
+      "9": {
+        "H1": [
+          "2.6  Keeping It Current"
+        ],
+        "H2": [
+          "access to relevant and current information, the ISTQB working groups have created links on the www.istqb.org web site which refer to supporting documents, changes to standards and new occurrences in the industry. This information is not examinable under this syllabus."
+        ]
+      },
+      "10": {
+        "H1": [
+          "Syllabus"
+        ],
+        "H2": [
+          "3.1 Business Outcomes 3.2 Content"
+        ],
+        "H3": [
+          "Extension  – Agile Tester certification.",
+          "An Agile Tester can…",
+          "AFM1  Collaborate in a cross-functional Agile team being familiar with principles and basic",
+          "AFM2  Adapt existing testing experience and knowledge to Agile values and principles.",
+          "AFM3  Support the Agile team in planning test-related activities.",
+          "AFM4  Apply relevant methods and techniques for testing in an Agile project.",
+          "AFM5  Assist the Agile team in test automation activities.",
+          "AFM6  Assist business stakeholders in defining understandable and testable user stories,",
+          "scenarios, requirements and acceptance criteria as appropriate.",
+          "AFM7  Work and share information with other team members using effective communication",
+          "styles and channels.",
+          "In general, a Certified Tester Foundation Level  – Agile Tester is expected to have acquired the necessary",
+          "skills to working effectively within an Agile team and environment.",
+          "Manifesto.",
+          "early and frequent feedback.",
+          "The tester should be able to write testable user stories in collaboration with developers and",
+          "business representatives.",
+          " The tester should understand how retrospectives can be used as a mechanism for process",
+          "improvement in Agile projects.",
+          "The tester should know the differences between iteration and release planning, and how a tester"
+        ]
+      },
+      "11": {
+        "H1": [
+          "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
+          "The tester should be able to describe the differences between testing activities in Agile projects",
+          "and non-Agile projects.",
+          "The tester should be able to describe how development and testing activities are integrated in",
+          "Agile projects.",
+          "testing in an Agile project, including test progress and product quality.",
+          "explain why test automation is important to manage regression risk in Agile projects.",
+          "Chapter 3: Agile Testing Methods, Techniques, and Tools",
+          "driven development, and behavior-driven development.",
+          "The tester should be able to summarize the testing quadrants and their relationships with testing",
+          "levels and testing types.",
+          "For a given Agile project, the tester should be able to work as a tester in a Scrum team.",
+          "The tester should be able to assess quality risks within an Agile project.",
+          "The tester should be able to estimate testing effort based on iteration content and quality risks.",
+          "The tester should be able to interpret relevant information to support testing activities.",
+          "The tester should be able to explain to business stakeholders how to define testable acceptance",
+          "criteria.",
+          "Given a user story, the tester should be able to write acceptance test-driven development test",
+          "cases.",
+          "For both functional and non-functional behavior, the tester should be able to write test cases using",
+          "black box test design techniques based on given user stories.",
+          "The tester should be able to recall different tools available to testers according to their purpose",
+          "and to activities in Agile projects."
+        ]
+      },
+      "12": {
+        "H1": [
+          "4.  References"
+        ],
+        "H2": [
+          "4.1 Trademarks 4.2 Documents and Web Sites"
+        ],
+        "H3": [
+          "The following registered trademarks and service marks are used in this document:",
+          "Identifier  Reference",
+          "to this website for the latest ISTQB Glossary and Syllabi. (www.istqb.org)"
+        ]
+      }
+    }
+  },
+  {
+    "title": "R R F F P P : :     R R e e q q u u e e s s t t     f f o o r r     P P r r o o p p o o s s a a l l",
+    "pages": {
+      "1": {
+        "H1": [
+          "R R F F P P : :     R R e e q q u u e e s s t t     f f o o r r     P P r r o o p p o o s s a a l l"
+        ],
+        "H2": [
+          "To Present a Proposal for Developing the Business Plan for the Ontario Digital Library"
+        ],
+        "H3": [
+          "March 21, 2003"
+        ]
+      },
+      "2": {
+        "H1": [
+          "Ontario’s Digital Library"
+        ],
+        "H2": [
+          "A Critical Component for Implementing Ontario’s Road Map to Prosperity Strategy"
+        ],
+        "H3": [
+          "Summary"
+        ]
+      },
+      "3": {
+        "H1": [
+          "Background"
+        ],
+        "H2": [
+          "If you require further information or have any questions, please contact Michael Ridley by e- mail (mridley@uoguelph.ca) only by 3:00 p.m. on Friday April 18th . All questions and responses will be shared with those who have indicated that they will be submitting a proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael Ridley by April 11 that they will be submitting a proposal will not receive any further information or question responses. First, some background on the ODL. For the last two years the Ontario Library Association has acted as a catalyst, bringing together the stakeholders needed to create the Ontario Digital Library (ODL). These stakeholders include Ontario’s 5000+ public libraries, university, college, and school libraries, as well as Ontario government ministries. Libraries that serve very different clientele recognize that by working together they can create seamless access to quality electronic library services. Through the ODL, students will be able to explore a topic at school, use the same child-safe resources after school (either at electronic resources that are still available and then, after graduation, continue to use these skills and resources at work or at home. commercial products as individual libraries or institutions. We can work together to spend our money wisely. The provincial government has made this possible by working hard to provide all Ontarians with a stable, high-speed communications infrastructure. While there is still a best to exploit communications technology. We can reduce barriers to access and create the content infrastructure needed to support a knowledge society. envision and attain Ontario’s economic goal prepared by the Ontario Jobs and Investment Board. The OJIB strategic plan recommends an electronic library to “connect students to new that and much more. The ODL will connect students to electronic information, and will also leverage this investment to help connect all citizens to the electronic information they need as Libraries have long been a key delivery point for public services. The ODL will allow that rooms. Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is leading edge for Ontario but several jurisdictions have forged the path with collaborative digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)"
+        ]
+      },
+      "4": {
+        "H1": [
+          "was incorporat ed in 1997 as a province-wide library consortium. TAL works collaboratively",
+          "with its members to promote universal access to materials and resources in more than 250",
+          "public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does",
+          "not include elementary or secondary schools. However, the timeline and funding we are",
+          "proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several",
+          "years. TAL’s implementation plan was supported by 8 million dollars in provincially shared",
+          "funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is",
+          "schools as partners; it has 250 member libraries. ODL envisions universal access for all",
+          "10,000,000 Ontarians, with more than 5000 Ontario libraries as partners. Although ODL can",
+          "TAL.",
+          "The ODL will be a partnership-based organization providing seamless electronic information",
+          "libraries, school libraries, college and university libraries and special libraries. The ODL",
+          "The principles which will define and guide the ODL are:",
+          "Equitable access for all Ontarians:",
+          "We will bring consistent, high-quality electronic resources and services to 10 million",
+          "Ontario citizens",
+          "We will eliminate barriers to the access to information and create more consistent",
+          "services for library clients.",
+          "Shared decision-making and accountability:",
+          "licenses and services",
+          "communities and institutions.",
+          "Shared governance structure:",
+          "We will share decision-making in order to enable the people we serve.",
+          "Shared funding:",
+          "and put Ontario dollars to work for everyone .",
+          "We will be willing to pool talents and dollars in order to provide common services that are",
+          "truly greater than those that can be maintained by individual institutions."
+        ]
+      },
+      "5": {
+        "H1": [
+          "We will provide the licenses, infrastructure, services and support that enable local",
+          "libraries to provide exceptional services to their clientele. ODL will focus on support,",
+          "providing the underpinning, not overshadowing.",
+          "Services envisioned for the ODL’s include:",
+          "Access:",
+          "to the “deep” web (i.e. Commercial, purchased electronic services)",
+          "to credible web sites and electronic resources",
+          "to digital government information",
+          "to local dig ital collections",
+          "Guidance and Advi ce:",
+          "to support e-learning",
+          "to support citizens, in real-time, as they try to use electronic resources",
+          "to assist citizens as they use web-links",
+          "Training:",
+          "for library workers",
+          "for the general public",
+          "Provincial Purchasing & Licensing:",
+          "Technological Support:",
+          "libra ry web sites",
+          "What could t he ODL really mean?",
+          "For each Ontario citizen it could mean:",
+          "Access to credible, high-quality, user-friendly electronic services through their",
+          "communit y, school, or academic library;",
+          "Confidence that the electronic services and sources they – and their children",
+          "– are usin g are safe, valid, and bringing them both global and local",
+          "perspectives;",
+          "Electronic in formation and tools that enhance job skills and the learning",
+          "experience",
+          "For each Ontario student it could mean:",
+          "resources and services",
+          "Connection to their individual educational environment, whether at the",
+          "elementary , secondary or post-secondary levels"
+        ]
+      },
+      "6": {
+        "H1": [
+          "The Business Plan to be Developed"
+        ],
+        "H2": [
+          "Confidence that the services and resources people are using are credible, available when they need them and adaptable to different learning styles For each Ontario library it could mean: resources and services that support and enhance their collections, programs and services The opportunity to show case their local community, collections, services, and expert ise The opportunity to gain from the provincial, collaborative partnership in order to pr ovide a seamless gateway to digital resources and services For the Ontario government it could mean: connecting to portal initiatives . librar y initiative that positions Ontario on the global e-learning scene Improved access and flexibility for all students at all ages and stages (supports Ontario’s lifelong learning strategy) The opportunity to address emerging job skills shortages and facilitate school to wor k and job to job transitions with the necessary information and knowledge supports and tools by a voting membership. The Board will include representatives from all stakeholders. We envision a governance model similar to that prepared for the province’s ORION network. More information regarding the envisioned phasing, funding and resources required for the ODL can be found in the appendixes. The business plan which needs to be developed for the ODL must be a formal business plan that documents and clearly communicates the ODL’s services, funding and governance structures, as well as implementation plans for 2004-2005, and operational plans for 2005- represented on the Steering Committee. Specifically, the business plan must include: how the ODL will be implemented, including the timeline the financial plan for the implementation the financial plan for the first 2 operating years, including capital and operating costs, rev enues, etc. a financial f orecast for the succeeding 2 operating years the services and products to be delivered by the ODL how the ODL will operate and be managed following the implementation who w ill be involved, and what their role/responsibility will be, for both the implementation and operational stages"
+        ]
+      },
+      "7": {
+        "H1": [
+          "Milestones",
+          "Approach and Specific Proposal Requirements"
+        ],
+        "H2": [
+          "the marketing and communications plan for the ODL all stakeholders are engaged in creating a synergistic ODL organization. The proposal must indicate how this consultative process will be approached. The business plan for the ODL must address significant issues. There are, for example, enormous differences in the financial resources available to libraries mandated to provide similar services. Some post-secondary and public libraries, particularly those in large urban areas, have the facilities, funding and technological infrastructure necessary to service their patrons with electronic services and resources. Many others, particularly in rural regions, do not. The proposal must indicate how these issues will be approached. 1) A preliminary report will be issued during June 2003. 2) It is expected that an Interim Report, suitable for distribution to the broader library community will be available by August 1, 2003 and that there will be an opportunity for responses to be evaluated. 3) The business plan must be completed and approved by the ODL Steering Committee no later than September 30, 2003. be expected to travel and communicate regularly with various stakeholders as well as with electronic resource publishers/vendors. The proposal should include the following information: responsibilities on this project and relevant experience/qualifications planning and building stakeholder commitment including a timeline f) cost to complete the study including estimated expenses (i.e.: travel, etc.) and payment structure"
+        ]
+      },
+      "8": {
+        "H1": [
+          "not necessarily be awarded to the lowest bidder. We reserve the right not to award the contract to",
+          "Specifically, proposals will be evaluated proposals according to the following criteria:",
+          "Demonstrated experience",
+          "Cost, including expenses",
+          "Timeline and projected completion date",
+          "Other relevant factors as determined by the ODL Steering Committee",
+          "Questions regarding this RFP should be directed by e-mail only to Michael Ridley",
+          "(mridley@uoguelph.ca).",
+          "Committee."
+        ]
+      },
+      "9": {
+        "H1": [
+          "Appendix A: ODL Envisioned Phases & Funding"
+        ],
+        "H2": [
+          "Phase I: Business Planning Timeline: Marc h 2003 – September 2003 Funding Request ed: ~$100,000 jointly funded by stakeholder groups and the provincial government. Result: The ODL business plan The first phase will be to build the ODL business plan. This plan will clearly define the ODL’s services, funding and governance structures, as well as implementation plans for 2003-2005. It will also secure consultative approach. To ensure that the planning results in a workable plan with the full commitment communication components so critical in a consultative process. Phase II: Implementing and Transitioning Timeline: April 2004 – Dec ember 2006 Funding Request ed: Funding from other states and provinces suggest that the ODL could receive stakeholders and other interested parties. Result: The ODL is implemented and validated The second phase will be to implement the ODL based on the business plan. This phase recognizes providing services. The transition must occur while libraries continue to provide existing services and library stakeholders and other interested parties as a means to quickly jumpstart the ODL. The seed money requested will allow libraries to realign their budgets and services as the infrastructure recommendations . During this phase the polices, procedures, governance structures and accountability Information resources will be identified, contracts for these resources will be negotiated and resources will be made deployed through the ODL. Regular evaluation during this phase will ensure the ODL is achieving its objectives and is accountable to its key communities. Phase III: Operating and Growing the ODL Timeline: January 2007 - Funding: $50 Mi llion annually ($35 Million requested from government) Result: The O DL is fully operational and sustainable In the third phase the ODL moves into the operational stage. Ontarians will experience the full benefits"
+        ]
+      },
+      "10": {
+        "H1": [
+          "Funding Source  2007  2017"
+        ],
+        "H2": [
+          "capabilities. The challenge is to secure resources sufficient to both sustain the original investments and to enhance the ODL. (i .e. government, libraries, donors, public and private sectors). All participants (i.e. beneficiaries) are ODL on Ontario’s economy, society and learning support that all library sectors are participants (university, colleges, public libraries and schools). The propos ed funding model requires a continuing government investment, but also recognizes that as sources. During the 3-year implementation phase (2004 – 2006) libraries will realign their budgets to enable ongoing funding contributions to ODL. During the same period ODL must build the proposed endowment and secure public and private sector gifts and/or in-kind contributions. The following chart outlines the model. This model is based on these assumptions: 1. that ODL expenditures will increase by 50% over a 10 year period 2. that government funding will decrease from 70% to 45% during that 10 year period 3. that library contributions, endowment and gifts/in-kind funding will increase from 30% to 55% during the same period Government $35M (70%) $33.75M (45%) Libraries $10M (20%) $22.5M (30%) Endowment $4.5M (9%) $15M (20%) Gifts/In-Kind $0.5M (1%) $3.75M (5%) TOTAL ANNUAL $50M $75M While the private sector will be invited to participate in the ODL through the endowment, gifts and in- kind contributions, the ODL will also explore compatible commercial services which leverage the reach It is important to recognize that every new dollar per citizen invested in the Ontario Digital Library has a strengthens every local library in Ontario by allowing them to reinvest existing dollars in new resources that enhance local services. This multiplier means that for every dollar invested in ODL the return"
+        ]
+      },
+      "11": {
+        "H1": [
+          "1. Preamble",
+          "and supported by its diverse stakeholder communities (see: www.odl.on.ca). The business",
+          "development planning and commitment process will be overseen by a Steering Committee, who are",
+          "responsibilities include:",
+          "governance, management, funding model and structure, organizational structure, marketing,",
+          "staffing, and evaluation;",
+          "2.2 consulting with and reporting to stakeholder communities, to ensure open, consistent and two-way",
+          "communication, and to ensure meaningful opportunities for stakeholder input into decision-",
+          "making;",
+          "2.3 recruiting and managing the business planner(s);",
+          "expenditures;",
+          "2.5 serving as a focus group for business planner(s) to test ideas;",
+          "2.7 securing commitment from library, government, and institutional stakeholders for implementation",
+          "2.8 presenting the business plan to funders",
+          "2.9 undertaking advocacy efforts to promote the ODL to the broader communities including library",
+          "and education communities.",
+          "3. Membership",
+          "representatives to the steering committee",
+          "3.1 Schools:",
+          "consultation with TALCO )",
+          "3.2 Universities:",
+          "3.3 Colleges:",
+          "3.4 Public libraries:"
+        ]
+      },
+      "12": {
+        "H1": [
+          "the OLA Board, and to assist the chair with the administrative responsibilities connected with",
+          "3.6 It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its",
+          "discretion, call on invited experts to advise on issues as required.",
+          "4.  Appointment Criteria and Process",
+          "4.1  Groups and organizations named in Section 3 above are responsible for appointing up to two",
+          "representatives to the Steering Committee.",
+          "4.2  Desired characteristics for steering committee appointees include:",
+          "Strategic thinkers;",
+          "Knowledgeable about digital libraries and resources;",
+          "Knowledgeable about government structures;",
+          "Respected by their communities; influential;",
+          "Able to take a consultative approach;",
+          "Able to devote time to Steering Committee business: approximately one day per month for",
+          "meetings plus 2-3 working days per month on related activities",
+          "5.  Term",
+          "business plan plus two months. This process is expected to take approximately 6 months.",
+          "6.  Chair",
+          "working with the selected consultant(s), OLA, and the Steering Committee to prepare the business",
+          "the business plan, and communications to stakeholders, funders, and government.",
+          "7.  Meetings",
+          "conducted by e-mail, and teleconference.",
+          "funders.",
+          "ODL funders to finance the business plan, to hold the funds in a separate account, and",
+          "disperse them for purposes as directed by the Steering Committee. OLA will provide",
+          "financial reports to the Steering Committee as requested and shall comply with all",
+          "government reporting regulations for funds received."
+        ]
+      },
+      "13": {
+        "H1": [
+          "8.3 The Steering Com mittee is accountable to its constituent groups and other stakeholders for",
+          "ongoing communications and consultation on issues and progress. The Steering committee",
+          "Community Services Cluster, ADM’s and Deputy Ministers.",
+          "9.  Financial and Administrative Policies",
+          "9.1 Service on the Steering Committee is non-remunerative",
+          "9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the",
+          "not benefit financially from the decisions the Steering Committee might make.  As a first",
+          "statement and procedural guidelines that will govern its work."
+        ]
+      },
+      "14": {
+        "H1": [
+          "Appendix C:  ODL’s Envisioned Electronic Resources"
+        ],
+        "H2": [
+          "1. Reference Resources -directories: companies, associations, organizations, governments, educational institutions, etc. etc. -almanacs, country information -dictionaries, thesauri, encyclopedias -consumer information -phone books, -travel guides, entertainment guides -weather information -media/newspapers -leisure time, recreational activity guides -indexing and abstracting services -currency converters, -virtual reference services -vocational/career information -internet search engin es -current awareness services 2. Subject Guides -arts and humanities -business and ec onomics -education -recreation and sports -entertainment -games, ac tivities for kids -health information -science and technology -social sciences -society and culture 3. Educational tool-kits -guides to information gather ing methodologies, information literacy -study guides -study skill development -web-based curricula -internet search guides 4. Journals, books, maps, music etc."
+        ]
+      }
+    }
+  },
+  {
+    "title": "Parsippany -Troy Hills STEM Pathways",
+    "pages": {
+      "1": {
+        "H1": [
+          "Parsippany -Troy Hills STEM Pathways"
+        ],
+        "H2": [
+          "PATHWAY OPTIONS",
+          "REGULAR PATHWAY DISTINCTION PATHWAY"
+        ],
+        "H3": [
+          "Mission Statement:",
+          "To provide PTHSD high school students with the opportunity to",
+          "concentrate their studies, beyond those required in high school, in the areas of science,",
+          "technology, engineering, and mathematics, and expose students to relevant real world",
+          "experiences through project work, conferences and presentations to enhance their high school",
+          "experience.",
+          "Goals:",
+          "•",
+          "Inspire keen interest in mathematics, science, engineering, and",
+          "technology, develop strong scholarship in the subject and",
+          "promote the enjoyment of these studies in high school.",
+          "Expose students to potential career opportunities in the field.",
+          "Encourage students to pursue higher education and major in",
+          "STEM careers.",
+          "• Promote interactions with STEM professionals to learn about",
+          "futur e opportunities.",
+          "• Support field experiences connected to the world outside of",
+          "the school building.",
+          "• Signal to employers, universities, training programs, and",
+          "milit ary that a student has completed a comprehensive course",
+          "of study in a specialized area.",
+          "• Cultivate transferable work habits such as perseverance, goal",
+          "se tting, and self-direction.",
+          "● 4 credits of Math - At least one math",
+          "course should be an AP Math class.",
+          "● 4 credits of Math",
+          "● 4 credits of Science- At least one",
+          "● 4 credits of Science",
+          "science course should be an AP",
+          "● 4 credits of STEM-designated electives",
+          "Science class.",
+          "● Maintain an overall 2.85 GPA",
+          "● Participate in a minimum of 3 STEM",
+          "- One must be a Computer",
+          "presentations/conferences each year",
+          "Science/T echnology Class",
+          "with a required minimum total of 12",
+          "● Maintain an overall 3.5 GPA",
+          "presentations/conferences throughout",
+          "the 4 years . *",
+          "presentations/conferences a year with a",
+          "● Join and actively participate in a",
+          "required minimum total of 12",
+          "STEM-related extracurricular activity or",
+          "club every year of attendance. -",
+          "the 4 years.",
+          "club every year of attendance.",
+          "● Either participate in an internship or",
+          "design and implement a community",
+          "impact project."
+        ]
+      }
+    }
+  },
+  {
+    "title": "HOPE To SEE  You THERE!",
+    "pages": {
+      "1": {
+        "H1": [
+          "HOPE To SEE  You THERE!"
+        ],
+        "H2": [
+          "WWW.TOPJUMP.COM"
+        ],
+        "H3": [
+          "ADDRESS:",
+          "TOPJUMP",
+          "3735  PARKWAY",
+          "PIGEON FORGE, TN 37863",
+          "(NEAR DIXIE STAMPEDE ON THE PARKWAY)",
+          "RSVP:",
+          "----------------",
+          "CLOSED TOED SHOES ARE REQUIRED FOR CLIMBING",
+          "PARENTS  OR GUARDIANS NOT ATTENDING THE PARTY,",
+          "PLEASE VISIT  TOPJUMP.COM  TO FILL OUT WAIVER",
+          "SO YOUR CHILD CAN ATTEND."
+        ]
+      }
+    }
+  }
+]

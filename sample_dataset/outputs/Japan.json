@@ -1,0 +1,748 @@
+{
+  "title": "THE FIRST 103 KANJI",
+  "pages": {
+    "1": {
+      "H1": [
+        "THE FIRST 103 KANJI"
+      ]
+    },
+    "2": {
+      "H1": [
+        "About this book"
+      ],
+      "H2": [
+        "writing the first 103 kanji characters required for the Japanese  Its meaning  The onyomi and kunyomi readings Vocabulary that includes this kanji NIHONGO ICHIBAN website to video showing the stroke order  A hint to help memorizing the kanji  A grid to exercise writing"
+      ]
+    },
+    "3": {
+      "H1": [
+        "Copyright",
+        "About us"
+      ],
+      "H2": [
+        "THERE IS NO COPYRIGHT! Japanese. NIHON ICHIBAN is a social business to promote Japanese culture and lifestyle in the world. With our free websites we serve a countries. The NIHON ICHIBAN SHOP is the leading online shop for authentic Japanese craft, design and food products. Please visit our shop first when you need something from Japan. NIHONGO ICHIBAN: http://nihongoichiban.com NIHON ICHIBAN: http://nihon-ichiban.com JAPAN BLOG DIRECTORY: http://japanblogdirectory.com NIHON ICHIBAN SHOP: http://anything-from-japan.com"
+      ]
+    },
+    "4": {
+      "H1": [
+        "a lesser extend it nowadays also uses some Latin alphabet for abbreviations and",
+        "numbers.",
+        "1) Kanji ( )",
+        "Kanji  originally came from China to Japan. The term “ kanji ” literally means “Han",
+        "characters” or “Chinese characters” and it is identical to the characters in China to",
+        "describe their writing.",
+        "Kanji  are mainly used to describe names and nouns. When used in verbs and adjectives",
+        "they mostly are written in combination with  hiragana . Most sentences include  kanji  as well",
+        "as  hiragana .",
+        "Japanese dictionaries list around 10,000  kanji . The Japanese government limited the  kanji",
+        "A Japanese with average education knows around 3000  kanji  and it is estimated that",
+        "around 4000  kanji  are used in Japanese literature.",
+        "2) Hiragana ( )",
+        "平仮名",
+        "Hiragana  is a phonetic alphabet that was developed in the ninth century to simplify writing.",
+        "It nowadays is mainly used for native Japanese words.  Hiragana  are derived from more",
+        "contemporary Japanese writing.",
+        "゛ ゜",
+        "A I U E O",
+        "(a)  (i)  (u)  (e)  (o)",
+        "あ い う え お",
+        "(ka)  (ki) (ku)  (ke)  (ko)",
+        "か き く け こ",
+        "(ga)  (gi)  (gu)  (ge)  (go)",
+        "が ぎ ぐ げ ご",
+        "(sa)  (shi)  (su)  (se)  (so)",
+        "さ し す せ そ",
+        "(za)  (ji)  (zu)  (ze)  (zo)",
+        "ざ じ ず ぜ ぞ",
+        "(ta)  (chi)  (tsu)  (te)  (to)",
+        "た ち つ て と",
+        "(da)  (ji)  (zu)  (de)  (do)",
+        "だ ぢ づ で ど",
+        "(na)  (ni)  (nu)  (ne)  (no)",
+        "な に ぬ ね の"
+      ]
+    },
+    "5": {
+      "H1": [
+        "(ha)  (hi)  (fu)  (he)  (ho)",
+        "は ひ ふ へ ほ",
+        "(ba)  (bi)  (bu)  (be)  (bo)",
+        "ば び ぶ ベ ぼ",
+        "(pa)  (pi)  (pu)  (pe)  (po)",
+        "ぱ ぴ ぷ ぺ ぽ",
+        "(ma)  (mi)  (mu)  (me)  (mo)",
+        "ま み む め も",
+        "(ya)  (yu)  (yo)",
+        "や ゆ よ",
+        "(ra)  (ri)  (ru)  (re)  (ro)",
+        "ら り る れ ろ",
+        "(wa)  (o/wo)",
+        "わ を",
+        "(n)",
+        "used in Japanese. The first character is written in normal size whereas the second",
+        "character is written a little bit smaller. These combinations are called digraphs.",
+        "YA YU YO",
+        "(kya)  (kyu)  (kyo)",
+        "きゃ きゅ きょ",
+        "(gya)  (gyu)  (gyo)",
+        "ぎゃ ぎゅ ぎょ",
+        "(sha)  (shu)  (sho)",
+        "しゃ しゅ しょ",
+        "(ja)  (ju)  (jo)",
+        "じゃ じゅ じょ",
+        "(cha)  (chu)  (cho)",
+        "ちゃ ちゅ ちょ",
+        "ぢゃ ぢゅ ぢょ",
+        "(nya)  (nyu)  (nyo)",
+        "にゃ にゅ にょ",
+        "(hya)  (hyu)  (hyo)",
+        "ひゃ ひゅ ひょ",
+        "(bya)  (byu)  (byo)",
+        "びゃ びゅ びょ",
+        "(pya)  (pyu)  (pyo)",
+        "ぴゃ ぴゅ ぴょ",
+        "(mya)  (myu)  (myo)",
+        "みゃ みゅ みょ",
+        "(rya)  (ryu)  (ryo)",
+        "りゃ りゅ りょ",
+        "3) Katakana ( )",
+        "片仮名",
+        "Katakana  also is a phonetic alphabet covering the same syllable as  hiragana  and it",
+        "therefore also has 46 different characters. It is mainly used for foreign loanwords and",
+        "sometimes to replace  kanji  or  hiragana  for emphasis.  Katakana w ere developed in the",
+        "ninth century and are also derived from more complex  kanji."
+      ]
+    },
+    "6": {
+      "H1": [
+        "A I U E O",
+        "(a)  (i)  (u)  (e)  (o)",
+        "ア イ ウ エ オ",
+        "(ka)  (ki)  (ku)  (ke)  (ko)",
+        "カ キ ク ケ コ",
+        "(ga)  (gi)  (gu)  (ge)  (go)",
+        "ガ ギ グ ゲ ゴ",
+        "(sa)  (shi)  (su)  (se)  (so)",
+        "サ シ ス セ ソ",
+        "(za)  (ji)  (zu)  (ze)  (zo)",
+        "ザ ジ ズ ゼ ゾ",
+        "(ta)  (chi)  (tsu)  (te)  (to)",
+        "タ チ ツ テ ト",
+        "(da)  (ji)  (zu)  (de)  (do)",
+        "ダ ヂ ヅ デ ド",
+        "(na)  (ni)  (nu)  (ne)  (no)",
+        "ナ ニ ヌ ネ ノ",
+        "(ha)  (hi)  (fu)  (he)  (ho)",
+        "ハ ヒ フ ヘ ホ",
+        "(ba)  (bi)  (bu)  (be)  (bo)",
+        "バ ビ ブ ベ ボ",
+        "(pa)  (pi)  (pu)  pe) (po)",
+        "パ ピ プ ペ ポ",
+        "(ma)  (mi)  (mu)  (me)  (mo)",
+        "マ ミ ム メ モ",
+        "(ya)  (yu)  (yo)",
+        "ヤ ユ ヨ",
+        "(ra)  (ri)    (ru)  (re)  (ro)",
+        "ラ リ ル レ ロ",
+        "(wa)  (o/wo)",
+        "ワ ヲ",
+        "(n)",
+        "As with hiragana there also are combinations to express the other sounds required for the",
+        "Japanese language.",
+        "YA YU YO",
+        "(kya)  (kyu)  (kyo)",
+        "キャ キュ キョ",
+        "(gya)  (gyu)  (gyo)",
+        "ギャ ギュ ギョ",
+        "(sha)  (shu)  (sho)",
+        "シャ シュ ショ",
+        "(ja)  (ju)  (jo)",
+        "ジャ ジュ ジョ",
+        "(cha)  (chu)  (cho)",
+        "チャ チュ チョ",
+        "ぢゃ ヂュ ヂョ",
+        "(nya)  (nyu)  (nyo)",
+        "ニャ ニュ ニョ"
+      ]
+    },
+    "7": {
+      "H1": [
+        "(hya)  (hyu)  (hyo)",
+        "ヒャ ヒュ ヒョ",
+        "(bya)  (byu)  (byo)",
+        "ビャ ビュ ビョ",
+        "(pya)  (pyu)  (pyo)",
+        "ピャ ピュ ピョ",
+        "(mya)  (myu)  (myo)",
+        "ミャ ミュ ミョ",
+        "(rya)  (ryu)  (ryo)",
+        "リャ リュ リョ",
+        "These 46 katakana and their variations are sufficient to express all sounds used for",
+        "so common extended  katakana  is used.",
+        "A I U E O",
+        "(yi)  (ye)",
+        "イィ イェ",
+        "(wa)  (wi)  (wu)  (we)  (wo)",
+        "ウァ ウィ ウゥ ウェ ウォ",
+        "(va)  (vi)  (vu)  (ve)  (vo)",
+        "ヴァ ヴィ ヴ ヴェ ヴォ",
+        "(vye)",
+        "ヴィェ",
+        "(kye)",
+        "(gye)",
+        "(kwa) (kwi)  (kwe)  (kwo)",
+        "クァ クィ クェ クォ",
+        "(gwa)  (gwi)  (gwe)  (gwo)",
+        "グァ グィ グェ グォ",
+        "(she)",
+        "(je)",
+        "(si)",
+        "(zi)",
+        "(che)",
+        "(tsa)  (tsi)  (tse)  (tso)",
+        "ツァ ツィ ツェ ツォ",
+        "(ti)  (tu)",
+        "ティ テゥ",
+        "(di)  (du)",
+        "ディ デゥ",
+        "(nye)",
+        "(hye)",
+        "(bye)"
+      ]
+    },
+    "8": {
+      "H1": [
+        "(pye)",
+        "(fa)  (fi)  (fe)  (fo)",
+        "ファ フィ フェ フォ",
+        "(fye)",
+        "フィェ",
+        "(hu)",
+        "(mye)",
+        "(rye)",
+        "(la) (li) (lu) (le) (lo)",
+        "ラ゜ リ゜ ル゜ レ゜ ロ゜",
+        "4) Writing a Japanese text",
+        "It is possible to write everything in  hiragana  or  katakana  since both scripts cover the entity",
+        "All characters are written one by one and in the same size. There are no spaces between",
+        "different words, which feels a little bit unusual for most foreigners. It takes time to get used",
+        "to this and easily distinguish different words.",
+        "It is important to write the strokes in the correct order and directions to give the characters",
+        "the right shape. The reason why becomes obvious when practicing with a brush pen 1 ,",
+        "which is very much recommended for beginners.",
+        "Japanese writing is made in two directions. Horizontal writing ( yokogaki ) is from the left to",
+        "the right as in western style. Traditional writing ( tategaki ) is vertical starting from the right",
+        "top and ending at the left bottom. A book printed in  tategaki  opens from what Westerners",
+        "would call the back, while a book printed in  yokogaki  opens from what traditionally in",
+        "Japan would have been considered the back. 2"
+      ],
+      "H2": [
+        "Japanese shops or via mail order."
+      ]
+    },
+    "9": {
+      "H1": [
+        "stroke"
+      ],
+      "H2": [
+        "Kunyomi: Hito [ ] 一口 ひとくち Vocabulary: - - hitokuchi - One bite To check the strokes order click on the link or search 4E00 on Nihongo Ichiban ★ 一 is just one stroke"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "10": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "二人 ふたり Vocabulary: - - futari - Two persons To check the strokes order click on the link or search 4E8C on Nihongo Ichiban ★ 二 一 一 二 1 + 1 = 2"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "11": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "みつ みっ Kunyomi: Mitsu / Mi- [ / ] 日 みっか Vocabulary: 3 - - mikka - The 3rd To check the strokes order click on the link or search 4E09 on Nihongo Ichiban ★ 三 一 二 1 + 2 = 3"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "12": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "よ ゆ よん Kunyomi: Yo / Yu / Yon [ / / ] 四季 しき Vocabulary: - - shiki - The 4 seasons To check the strokes order click on the link or search 56DB on Nihongo Ichiban There are four sides to a square"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "13": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Itsu [ ] 五つ いつつ Vocabulary: - - itsutsu - Five (ordinal number) To check the strokes order click on the link or search 4E94 on Nihongo Ichiban It looks like the number 5"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "14": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Mu/Mut/Mui [ / / ] 六つ むっつ Vocabulary: - - muttsu - Six (ordinal number) To check the strokes order click on the link or search 516D on Nihongo Ichiban 6 can be written VI if you turn them around you get"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "15": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "なな なの Kunyomi: Nana/Nano [ / ] 七月 しちがつ Vocabulary: – – shichigatsu - July To check the strokes order click on the link or search 4E03 on Nihongo Ichiban It is a 7 inverted"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "16": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "やっ や よう Kunyomi: Yat/Ya/You [ / / ] 八つ やっつ Vocabulary: - - Yattsu – Eight (ordinal number) To check the strokes order click on the link or search 516B on Nihongo Ichiban When following the simple shape"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "17": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "九日 ここのか Vocabulary: - - Kokonoka - The 9 Code NIHONGO ICHIBAN: 4E5D To check the strokes order click on the link or search 4E5D on Nihongo Ichiban with a little imagination"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "18": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Too [ ] 十日 とおか Vocabulary: - - Tooka – The To check the strokes order click on the link or search 5341 on Nihongo Ichiban 10 can be written X"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "19": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: / 百貨店 ひゃっかてん Vocabulary: - - Hyakkaten - A mall To check the strokes order click on the link or search 767E on Nihongo Ichiban 100 ->"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "20": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Chi [ ] 二千円 にせんえん Vocabulary: - - nisenen - Two thousand Yen To check the strokes order click on the link or search 5343 on Nihongo Ichiban Thousand starts with the letter T"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "21": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "万引き まんびき Vocabulary: - - manbiki – Shoplifting To check the strokes order click on the link or search 4E07 on Nihongo Ichiban It looks like a capital T and a h combined like in Thousand and the capital T also stands for Ten"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "22": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Mizu [ ] 水道 すいどう Vocabulary: - - suidou - Water pipe To check the strokes order click on the link or search 6C34 on Nihongo Ichiban"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "23": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Hi [ ] 火山 かざん Vocabulary: - - kazan – Volcano To check the strokes order click on the link or search 706B on Nihongo Ichiban It looks like a camp fire with flames flying around."
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "24": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "き こ Kunyomi: Ki/Ko [ / ] 木曜日 もくようび Vocabulary: - - mokuyoubi – Thursday To check the strokes order click on the link or search 6728 on Nihongo Ichiban It is easy to remember since it looks like a tree"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "25": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "あめ あま Kunyomi: Ame, Ama [ / ] 天気 てんき Vocabulary: - - tenki – Weather To check the strokes order click on the link or search 5929 on Nihongo Ichiban ★ 一 大 Heaven is one ( ) big ( ) place !"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "26": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Tsuchi [ ] 土 つち Vocabulary: - - tsuchi – Earth To check the strokes order click on the link or search 571F on Nihongo Ichiban It looks like a cross on a grave buried in the ground"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "27": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Kita [ ] 北米 ほくべい Vocabulary: - - hokubei - North America Check the strokes order and learn more vocabulary on Nihongo Ichiban code: 5317 When putting it together it looks like a ladder to go up NORTH"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "28": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "ひがし Kunyomi: Higashi [ ] 東京 とうきょう Vocabulary: - - toukyou - Tokyo To check the strokes order click on the link or search 6771 on Nihongo Ichiban ★ 日 木 The sun ( ) rise behind a tree ( ) on the East."
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "29": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Nishi [ ] 西暦 せいれき Vocabulary: - - seireki - Christian era To check the strokes order click on the link or search 897F on Nihongo Ichiban The upper part looks like the Greek symbol π (Pi). Greek is a western country"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "30": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "南米 なんべい Vocabulary: - - nanbei - South America To check the strokes order click on the link or search 5357 on Nihongo Ichiban In the South there are many believers"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "31": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "ひだり Kunyomi: Hidari [ ] 左折 させつ Vocabulary: - - sasetsu - To turn left To check the strokes order click on the link or search 5DE6 on Nihongo Ichiban working ( )"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "32": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Migi [ ] 右岸 うがん Vocabulary: - - ugan - Right Shore To check the strokes order click on the link or search 53F3 on Nihongo Ichiban On a map the restaurant"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "33": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "ひ か Kunyomi: Hi/Ka [ / ] 日本 にほん Vocabulary: - - nihon - Japan To check the strokes order click on the link or search 65E5 on Nihongo Ichiban"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "34": {
+      "H1": [
+        "stroke"
+      ],
+      "H2": [
+        "Kunyomi: Tsuki [ ] 満月 まんげつ Vocabulary: - - mangetsu - Full moon To check the strokes order click on the link or search 6708 on Nihongo Ichiban"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "35": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Hana [ ] 花瓶 かびん Vocabulary: - - kabin - Vase To check the strokes order click on the link or search 82B1 on Nihongo Ichiban ★ 化 Weed ( ) sometime changes ( ) into flowers ( )"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "36": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "さかな うお Kunyomi: Sakana / Uo [ / ] 金魚 きんぎょ Vocabulary: - - kingyo – Goldfish To check the strokes order click on the link or search 9B5A on Nihongo Ichiban It looks like a fish swimming upward."
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "37": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "け る から )/ ] 空港 くうこう Vocabulary: - - kuukou - Airport To check the strokes order click on the link or search 7A7A on Nihongo Ichiban ★ 工 穴 Working ( ) in a hole ( ) makes you feel empty."
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "38": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Yama [ ] 山羊 やぎ Vocabulary: - - yagi - A goat To check the strokes order click on the link or search 5C71 on Nihongo Ichiban stands for."
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "39": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "徳川 とくがわ Vocabulary: - - Tokugawa - Togugawa (Ieyasu) first shogunate. To check the strokes order click on the link or search 5DDD on Nihongo Ichiban river."
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "40": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Ame [ ] 梅雨 つゆ Vocabulary: - - tsuyu - Rainy season To check the strokes order click on the link or search 96E8 on Nihongo Ichiban It looks like rain drops hitting a window"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "41": {
+      "H1": [
+        "stroke"
+      ],
+      "H2": [
+        "Kunyomi: Moto [ ] 本物 ほんもの Vocabulary: - - honmono – Original To check the strokes order click on the link or search 672C on Nihongo Ichiban Books are made from trees cut at their bottom (hence the bottom line)"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "42": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Me [ ] 目的 もくてき Vocabulary: - - mokuteki - purpose, goal To check the strokes order click on the link or search 76EE on Nihongo Ichiban"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "43": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Kuchi [ ] 火口 かこう Vocabulary: - - kakou - Crater To check the strokes order click on the link or search 53E3 on Nihongo Ichiban It looks like a mouth wide open"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "44": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Mimi [ ] 耳孔 じこう Vocabulary: - - jikou - Earhole To check the strokes order click on the link or search 8033 on Nihongo Ichiban It looks a little like an ear with a hole in the middle and one part sticking out down"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "45": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Te [ ] 空手 からて Vocabulary: - - karate - Karate To check the strokes order click on the link or search 624B on Nihongo Ichiban It is a simplified Hand drawing giving a thumb down"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "46": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "りる た す ( )/ ( )] 満足 まんぞく Vocabulary: - - manzoku - Satisfaction To check the strokes order click on the link or search 8DB3 on Nihongo Ichiban It looks like a cartoon character running with his huge Feet"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "47": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Hito [ ] 人口 じんこう Vocabulary: - - jinkou - Population To check the strokes order click on the link or search 4EBA on Nihongo Ichiban It looks like a Man standing with his legs spread."
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "48": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Haha [ ] 祖母 そぼ Vocabulary: - - sobo – Grandmother To check the strokes order click on the link or search 6BCD on Nihongo Ichiban It is suppose to represent a Mother’s breast."
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "49": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "Kunyomi: Chichi [ ] 祖父 そふ Grandfather To check the strokes order click on the link or search 7236 on Nihongo Ichiban up because he became a Father."
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    },
+    "50": {
+      "H1": [
+        "strokes"
+      ],
+      "H2": [
+        "おんな め Kunyomi: Onna / Me [ / ] 女性 じょせい Vocabulary: - - josei - Female To check the strokes order click on the link or search 5973 on Nihongo Ichiban It looks like a ballerina"
+      ],
+      "H3": [
+        "NIHON  ICHIBAN  is  the  largest  online  shop  for",
+        "authentic Japanese craft, designs and food."
+      ]
+    }
+  }
+}
