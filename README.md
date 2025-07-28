@@ -63,7 +63,7 @@ The extracted output is saved as **JSON files**, one for each PDF, and also a **
 ### 1️⃣ **Build Docker Image**
 
 ```bash
-docker build --platform linux/amd64 -t mysolution:abc123 .
+docker build --platform linux/amd64 -t pdf-processor .
 ```
 
 ### 2️⃣ **Run the Solution**
@@ -71,10 +71,12 @@ docker build --platform linux/amd64 -t mysolution:abc123 .
 Place all your **input PDFs** inside an `input/` folder and run:
 
 ```bash
-docker run --rm \
-  -v $(pwd)/input:/app/input \
-  -v $(pwd)/output:/app/output \
-  --network none mysolution:abc123
+docker run --rm `                                                           
+   -v "${PWD}/sample_dataset/PDF:/app/sample_dataset/PDF:ro" `
+   -v "${PWD}/sample_dataset/outputs:/app/sample_dataset/outputs" `
+   -v "${PWD}/sample_dataset/schema:/app/sample_dataset/schema" `
+   --network none `
+   pdf-processor
 ```
 
 ✅ **The container will automatically:**
