@@ -71,12 +71,13 @@ docker build --platform linux/amd64 -t pdf-processor .
 Place all your **input PDFs** inside an `input/` folder and run:
 
 ```bash
-docker run --rm `                                                           
-    "${PWD}/sample_dataset/PDF:/app/sample_dataset/PDF:ro" `
-    "${PWD}/sample_dataset/outputs:/app/sample_dataset/outputs" `
-    "${PWD}/sample_dataset/schema:/app/sample_dataset/schema" `
-   --network none `
-   pdf-processor
+docker run --rm `
+  -v "$(pwd)/sample_dataset/PDF:/app/sample_dataset/PDF:ro" `
+  -v "$(pwd)/sample_dataset/outputs:/app/sample_dataset/outputs" `
+  -v "$(pwd)/sample_dataset/schema:/app/sample_dataset/schema" `
+  --network none `
+  pdf-processor
+
 ```
 
 ✅ **The container will automatically:**
