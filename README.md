@@ -22,7 +22,7 @@ The extracted output is saved as **JSON files**, one for each PDF, and also a **
 2. **OCR Fallback (Multilingual Support)**
 
    * For PDFs without embedded text, used **pytesseract** + **pdf2image** to perform OCR.
-   * Configured Tesseract to detect multiple languages (`eng`, `jpn`, `chi_sim`, `hin`) for bonus multilingual points.
+   * Configured Tesseract to detect multiple languages (`eng`, `jpn`, `chi_sim`, `hin`) .
 
 3. **Heading Classification**
 
