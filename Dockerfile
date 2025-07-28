@@ -16,10 +16,7 @@ RUN apt-get update && apt-get install -y \
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Rest of your Dockerfile remains the same
-# ...existing code...
 
-# Copy application code
 COPY app.py .
 
 # Create directories with correct permissions
